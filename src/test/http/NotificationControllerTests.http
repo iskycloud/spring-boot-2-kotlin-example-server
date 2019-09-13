@@ -1,0 +1,6 @@
+### NotificationController
+
+### getNotifications
+GET http://localhost:8080/notifications HTTP/1.1
+
+###

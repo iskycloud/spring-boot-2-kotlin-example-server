@@ -1,1 +1,1 @@
-rootProject.name = "spring-kotlin-example-server"
+rootProject.name = "spring-boot-2-kotlin-example-server"
